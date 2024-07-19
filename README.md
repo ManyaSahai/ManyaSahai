@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - 👋 Hi, I’m Manya Sahai<br>- 💻 I’m currently pursuing Btech in Computer Engneering .
 
 
